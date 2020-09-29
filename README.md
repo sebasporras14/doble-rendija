@@ -26,11 +26,11 @@ https://www.youtube.com/watch?v=IoHkDo4h7bw
 ## explicación:
 Con este experimento se busca comprender parte del multiverso y la influencia que  tienen los distintos universos entre si. esto se puede evidenciar con las interferencias que se generan por el paso del haz de luz en las rendijas. estas se dan gracias a las interacciones que hay entre los particulas con sus historias en universos ajenos a este. una manera de entender como funciona es estudiar el fenómeno por medio de la probabilidad ya que al la interactuar las historias de distintos universos con las particula se crean distintas posibilidades en cuanto a la direccion que la particula tomara creando asi los patrones donde se veran una acumulacion mayor de estas.
 
-![](/fotos/foto4.jpeg)
+![](/fotos/foto4.jpg)
 
 estas probabilidades se pueden ver mediante un grafo:
 
-![](/fotos/grafo.jpeg)
+![](/fotos/grafo.jpg)
 
  ## bibliografia:
 
