@@ -2,7 +2,7 @@
 
 ## origen:
 conocido originalmente como experimento de young, el experimetno de la doble rendija fue realizado en 1801 por thomas young. con este se logro comprobar un patronde interferncias en la luz que viene de una fuente lejana al difractarse por dos rendijas. este experimento se puede realizar con protones, electrones o neutrones porduciendo ciertos patrones de interferencia como se puede ver a continuacion.
- ![](/fotos/foto3.jpeg)
+ ![](/fotos/foto3.jpg)
 ## materiales:
 * cartulina negra
 * cartulina blanca
