@@ -19,10 +19,13 @@ conocido originalmente como experimento de young, el experimetno de la doble ren
  ![](/fotos/foto1.jpeg)
 
  ![](/fotos/foto2.jpeg)
+ 
 para ver el video haga click en el siguiente enlace:
 https://www.youtube.com/watch?v=IoHkDo4h7bw
 
-##bibliografia:
+## explicación:
+
+ ## bibliografia:
 
 https://es.wikipedia.org/wiki/Experimento_de_Young#/media/Archivo:Double-slit_experiment_results_Tanamura_2.jpg
 https://es.wikipedia.org/wiki/Experimento_de_Young#:~:text=En%20el%20experimento%20de%20doble,la%20luz%20en%20ondas%20cil%C3%ADndricas.
